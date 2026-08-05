@@ -321,7 +321,7 @@ const MEMORIES = [
   },
   {
     type: "video",
-    src: "./p2/WhatsApp Video 2026-08-05 at 10.44.49 PM.mp4",
+    src: "./p2/WhatsApp Video 2026-08-05 at 10.44.44 PM.mp4",
     date: "june 11, 2026",
     caption: "3wgt lesan last tik tok"
   },
